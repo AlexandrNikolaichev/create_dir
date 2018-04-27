@@ -1,0 +1,28 @@
+{
+  "name":"test_dir",
+  "children":[
+    {
+      "name":"test1",
+      "children":[],
+      "files":[
+        "test.c",
+        "test.h"
+      ]
+    },
+    {
+      "name":"test2",
+      "children":[],
+      "files":[
+        "hello.c"
+      ]
+    },
+    {
+      "name":"test3",
+      "children":[],
+      "files":[]
+    }
+  ],
+  "files":[
+    "test.rb"
+  ]
+}
