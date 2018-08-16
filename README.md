@@ -6,6 +6,7 @@
 
 ## Result:
 ```
+$ tree
 .
 ├── README.md
 ├── mkdir.rb
